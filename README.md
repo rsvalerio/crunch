@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/rsvalerio/crunch.png?branch=master)](https://travis-ci.org/rsvalerio/crunch)
+[![Code Climate](https://codeclimate.com/repos/52a75bef7e00a43b12005152/badges/0b7ea8cf3b97c5bbab6d/gpa.png)](https://codeclimate.com/repos/52a75bef7e00a43b12005152/feed)
 
 # grunt-crunch
 
