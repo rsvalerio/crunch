@@ -46,6 +46,8 @@ Default value: `',  '`
 
 A string value that is used to do something with whatever.
 
+Testing CI
+
 #### options.punctuation
 Type: `String`
 Default value: `'.'`
